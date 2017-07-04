@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to my Console application");
+            Console.WriteLine("GIT Demo");
             Console.Read();
         }
     }
